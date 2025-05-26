@@ -14,7 +14,16 @@
             do
             {
                 Console.WriteLine("Entre com um número: ");
-                Guess = LimitedByteInput(1, 100, Error_Log: "Número inválido, tente denovo: ");
+
+                while (true)
+                {
+                    if (byte.TryParse(Console.ReadLine(), out Var))
+                    {
+                        return output;
+                    }
+
+                    Console.WriteLine("Número inválido, tente denovo: ");
+                }
 
                 if (Guess < Target)
                 {
@@ -34,7 +43,7 @@
         {
             while (true)
             {
-                if (byte.TryParse(Console.ReadLine(), out byte output) && 
+                if (byte.TryParse(Console.ReadLine(), out byte output) &&
                     (min is null || output >= min) &&
                     (max is null || output < max))
                 {
