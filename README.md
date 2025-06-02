@@ -6,21 +6,21 @@ Bem-vindo, forasteiro! Este repositório contém as soluções das tarefas de **
 
 O conteúdo encontra-se organizado por **trimestres**, **aulas** e **exercícios**, conforme abaixo:
 
-    Tarefas_LPR/ <br>
-    ├── Trimestre_1/ <br>
-    │ ├── Aula_01/ <br>
-    │ │ ├── Enunciado.md <br>
-    │ │ ├── Exercicio_01/ <br>
-    │ │ │ ├── Solucao.cpp <br>
-    │ │ │ ├── ou <br>
-    │ │ │ └── Solucao.cs <br>
-    │ │ ├── Exercicio_02/ <br>
-    │ │ │ ├── ...<br>
-    │ │ └── ... <br>
-    │ └── ... <br>
-    ├── Trimestre_2/ <br>
-    │ └── ... <br>
-    └── ... <br>
+    Tarefas_LPR/
+    ├── Trimestre_1/
+    │ ├── Aula_01/
+    │ │ ├── Enunciado.md
+    │ │ ├── Exercicio_01/
+    │ │ │ ├── Solucao.cpp
+    │ │ │ ├── ou
+    │ │ │ └── Solucao.cs
+    │ │ ├── Exercicio_02/
+    │ │ │ ├── ...
+    │ │ └── ...
+    │ └── ...
+    ├── Trimestre_2/
+    │ └── ...
+    └── ...
 
 > ✍️ Cada pasta de **Aula** contém:
 > - Um arquivo `Enunciado.md` com os problemas propostos na aula.
