@@ -1,15 +1,15 @@
-# 📚 Tarefas de LPR — 11-pog
+# Tarefas de LPR — 11-pog
 
 Bem-vindo, forasteiro! Este repositório contém as soluções das tarefas de **LPR (Linguagem de Programação)** desenvolvidas ao longo do curso, utilizando as nobres linguagens **C++** e **C#**.
 
-## 🗂 Estrutura do Repositório
+## Estrutura do Repositório
 
 O conteúdo encontra-se organizado por **trimestres**, **aulas** e **exercícios**, conforme abaixo:
 
     Tarefas_LPR/
     ├── Trimestre_1/
     │ ├── Aula_01/
-    │ │ ├── Enunciado.md
+    │ │ ├── README.md
     │ │ ├── Exercicio_01/
     │ │ │ ├── Solucao.cpp
     │ │ │ ├── ou
@@ -22,28 +22,28 @@ O conteúdo encontra-se organizado por **trimestres**, **aulas** e **exercícios
     │ └── ...
     └── ...
 
-> ✍️ Cada pasta de **Aula** contém:
+> Cada pasta de **Aula** contém:
 >
-> - Um arquivo `Enunciado.md` com os problemas propostos na aula.
+> - Um arquivo `README.md` com os problemas propostos na aula.
 > - Uma pasta para cada exercício (Exercicio_01, Exercicio_02, etc).
 > - Cada exercício pode conter implementações em C++ (`.cpp`) e/ou C# (`.cs`), conforme requisitado.
 
-## 💡 Objetivo
+## Objetivo
 
 Este repositório serve tanto como **registro acadêmico** quanto como **recurso de estudo** para outros estudantes que desejem revisar conceitos de programação resolvendo problemas passo a passo.
 
 Sinta-se livre para explorar, reutilizar, adaptar ou até sugerir melhorias!
 
-## 🤝 Contribuições
+## Contribuições
 
-Agradeço o interesse, mas... este repositório serve para entrega de **tarefas pessoais** da disciplina.
+Agradeço o interesse, mas este repositório serve para entrega de **tarefas pessoais** da disciplina.
 
-Se tiver sugestões ou quiser trocar ideia sobre os exercícios, manda um salve fora daqui.
+Se tiver sugestões ou quiser trocar ideia sobre os exercícios, manda a braba.
 
 ## Final
 
-No futuro eu boto uma imagem legal aqui que nem eu fiz no [Repositório da projete de 2024](https://github.com/11-pog/PROJETE2405ESP).
+No futuro eu boto uma imagem legal aqui que nem eu fiz no [Repositório da projete de 2024](https://github.com/11-pog/PROJETE2405ESP) sla.
 
 ---
 
-> _"EU CONJURO BOLA DE FOGO"_ - 🧙‍♂️
+> _"EU CONJURO BOLA DE FOGO"_ -🧙‍♂️
