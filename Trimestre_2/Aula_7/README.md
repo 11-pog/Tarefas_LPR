@@ -1,6 +1,7 @@
 # Enunciado
 
 ## Instruções
+
 No seu repositório público no GitHub
 “Tarefas_LPR”, crie uma pasta chamada
 “Aula07”. Dentro dessa pasta você deve inserir
@@ -9,6 +10,7 @@ São 4 exercícios. Resolva 2 em C++ e 2 em C#.
 
 
 ## Exercício 1 - VETOR
+
 Construa um algoritmo
 que leia 10 números inteiros e armazene-os
 em um vetor (use o for para fazer a leitura).
@@ -17,15 +19,10 @@ vetores, um contendo apenas os números
 pares e outro os números ímpares
 digitados.
 
-- ENTRADA:
-  - 5 8 7 9 6 4 10 8
-10 9
-
-- SAÍDA:
-  - PAR: 8 6 4 10 8 10
-  - ÍMPAR: 5 7 9 9
+![Exercício 1](Exer1.png)
 
 ## Exercício 2 - VETOR
+
 Construa um algoritmo
 que leia 10 números inteiros. Depois
 solicite para o usuário um número que ele
@@ -35,12 +32,13 @@ posição (ou quais) ele aparece e quantas
 ocorrências foram detectadas.
 
 ## Exercício 3 - MATRIZ
+
 A tabela a seguir
 mostra a distância de quatro cidades entre
 si. Por exemplo, a distância entre Vitória e
 Belo Horizonte é de 524 km.
 
-<img title="Tabela" src="Exer2.png">
+![Tabela](Exer2.png)
 
 Crie um programa
 que leia essa matriz e informe ao usuário a
@@ -52,8 +50,9 @@ origem e destino.
 
 
 ## Exercício 4 - MATRIZ
+
 Crie um algoritmo que
 leia duas matrizes A e B, de tamanho 3x3, e
 calcule A*B. Dica abaixo:
 
-<img Title="Dica" src="Exer4.png">
+![Dica](Exer4.png)
