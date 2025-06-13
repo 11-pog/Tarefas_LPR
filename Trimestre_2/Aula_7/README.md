@@ -1,6 +1,4 @@
-# Enunciado
-
-## Instruções
+# Instruções
 
 No seu repositório público no GitHub
 “Tarefas_LPR”, crie uma pasta chamada

@@ -1,6 +1,4 @@
-# Enunciado
-
-## Instruções
+# Instruções
 
 - Crie um repositório público no GitHub
 chamado “Tarefas_LPR”. Sugiro
